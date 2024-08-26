@@ -4,6 +4,7 @@
   width: 400px;
   height: 300px;
   display: flex;
+  justify-content: center;
 }
 
 .box {
@@ -13,5 +14,4 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
-  flex: 1;
 }
